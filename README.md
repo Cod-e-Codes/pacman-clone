@@ -24,7 +24,7 @@ A modern Pacman clone built with Flutter! Navigate through levels, eat dots, avo
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/pacman-clone.git
+   git clone https://github.com/Cod-e-Codes/pacman-clone.git
    ```
 
 2. Navigate to the project directory:
